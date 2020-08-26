@@ -8,28 +8,28 @@
             "time": "8",
             "list": [{
                     "id": "001",
-                    "src": "/img/seckill01.jpg",
+                    "src": "img/seckill01.jpg",
                     "name": "cherry MX10.0 机械键盘",
                     "oldPrice": "1699",
                     "newPrice": "1599"
                 },
                 {
                     "id": "002",
-                    "src": "/img/seckill02.jpg",
+                    "src": "img/seckill02.jpg",
                     "name": "airpords2 无线蓝牙耳机",
                     "oldPrice": "1259",
                     "newPrice": "999"
                 },
                 {
                     "id": "003",
-                    "src": "/img/seckill03.jpg",
+                    "src": "img/seckill03.jpg",
                     "name": "华为移动电源快充版",
                     "oldPrice": "199",
                     "newPrice": "189"
                 },
                 {
                     "id": "004",
-                    "src": "/img/seckill04.jpg",
+                    "src": "img/seckill04.jpg",
                     "name": "猫王复古蓝牙音箱",
                     "oldPrice": "499",
                     "newPrice": "399"
@@ -41,7 +41,7 @@
             "subtitle": "新随我动",
             "list": [{
                     "id": "001",
-                    "src": "/img/seckill01.jpg",
+                    "src": "img/seckill01.jpg",
                     "name": "cherry MX10.0 机械键盘",
                     "oldPrice": "1699",
                     "newPrice": "1599"
@@ -60,14 +60,14 @@
             "subtitle": "物美价廉",
             "list": [{
                     "id": "001",
-                    "src": "/img/seckill02.jpg",
+                    "src": "img/seckill02.jpg",
                     "name": "airpords2 无线蓝牙耳机",
                     "oldPrice": "1259",
                     "newPrice": "999"
                 },
                 {
                     "id": "002",
-                    "src": "/img/seckill03.jpg",
+                    "src": "img/seckill03.jpg",
                     "name": "华为移动电源快充版",
                     "oldPrice": "199",
                     "newPrice": "189"
@@ -78,42 +78,42 @@
             "title": "热销排行",
             "list": [{
                     "id": "001",
-                    "src": "/img/seckill02.jpg",
+                    "src": "img/seckill02.jpg",
                     "name": "airpords2 无线蓝牙耳机",
                     "oldPrice": "1259",
                     "newPrice": "999"
                 },
                 {
                     "id": "002",
-                    "src": "/img/seckill03.jpg",
+                    "src": "img/seckill03.jpg",
                     "name": "华为移动电源快充版",
                     "oldPrice": "199",
                     "newPrice": "189"
                 },
                 {
                     "id": "003",
-                    "src": "/img/img01.jpg",
+                    "src": "img/img01.jpg",
                     "name": "SONY有线耳机",
                     "oldPrice": "1999",
                     "newPrice": "1899"
                 },
                 {
                     "id": "004",
-                    "src": "/img/img02.jpg",
+                    "src": "img/img02.jpg",
                     "name": "氮化镓快充电头",
                     "oldPrice": "259",
                     "newPrice": "239"
                 },
                 {
                     "id": "005",
-                    "src": "/img/img03.jpg",
+                    "src": "img/img03.jpg",
                     "name": "type-c 数据线",
                     "oldPrice": "99",
                     "newPrice": "89"
                 },
                 {
                     "id": "006",
-                    "src": "/img/img04.jpg",
+                    "src": "img/img04.jpg",
                     "name": "55W无线充电器",
                     "oldPrice": "149",
                     "newPrice": "139"
@@ -125,56 +125,56 @@
             "list": [
                 {
                     "id": "001",
-                    "src": "/img/seckill01.jpg",
+                    "src": "img/seckill01.jpg",
                     "name": "cherry MX10.0 RGB 红轴 机械键盘",
                     "oldPrice": "1699",
                     "newPrice": "1599"
                 },
                 {
                     "id": "002",
-                    "src": "/img/seckill03.jpg",
+                    "src": "img/seckill03.jpg",
                     "name": "华为移动电源快充版",
                     "oldPrice": "199",
                     "newPrice": "189"
                 },
                 {
                     "id": "003",
-                    "src": "/img/seckill02.jpg",
+                    "src": "img/seckill02.jpg",
                     "name": "airpords2 无线 蓝牙 耳机",
                     "oldPrice": "1259",
                     "newPrice": "999"
                 },                
                 {
                     "id": "004",
-                    "src": "/img/img01.jpg",
+                    "src": "img/img01.jpg",
                     "name": "SONY有线耳机",
                     "oldPrice": "1999",
                     "newPrice": "1899"
                 },
                 {
                     "id": "005",
-                    "src": "/img/img02.jpg",
+                    "src": "img/img02.jpg",
                     "name": "氮化镓65W快充电头",
                     "oldPrice": "259",
                     "newPrice": "239"
                 },
                 {
                     "id": "006",
-                    "src": "/img/img03.jpg",
+                    "src": "img/img03.jpg",
                     "name": "type-c 数据线",
                     "oldPrice": "99",
                     "newPrice": "89"
                 },
                 {
                     "id": "007",
-                    "src": "/img/img04.jpg",
+                    "src": "img/img04.jpg",
                     "name": "小米55W无线充电器",
                     "oldPrice": "149",
                     "newPrice": "139"
                 },
                 {
                     "id": "008",
-                    "src": "/img/seckill04.jpg",
+                    "src": "img/seckill04.jpg",
                     "name": "猫王复古蓝牙音箱",
                     "oldPrice": "499",
                     "newPrice": "399"

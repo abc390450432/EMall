@@ -4,17 +4,17 @@
     "response": {
         "list": [
             {
-                "src": "/img/swipe01.jpg",
+                "src": "img/swipe01.jpg",
                 "name": "Dell XPS",
                 "id": "001"
             },
             {
-                "src": "/img/swipe02.jpg",
+                "src": "img/swipe02.jpg",
                 "name": "ipad pro",
                 "id": "002"
             },
             {
-                "src": "/img/swipe03.jpg",
+                "src": "img/swipe03.jpg",
                 "name": "HUAWEI P40 pro",
                 "id": "003"
             }
